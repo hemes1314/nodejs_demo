@@ -1,4 +1,4 @@
-// $ npm install -g cnpm --registry=https://registry.npm.taobao.org
+// $ npm install cnpm -g
 
 var http = require('http');
 var fs = require('fs');
